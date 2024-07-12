@@ -1,0 +1,2 @@
+wget https://downloads.openappsec.io/scripts/open-appsec-linux-connect-mgmt && chmod +x open-appsec-linux-connect-mgmt
+./open-appsec-linux-connect-mgmt --token cp-3c5c7401-c339-4487-9c4b-68cfe32178dfdbcdd570-8124-49f7-9f71-95697249f9e6
